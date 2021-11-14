@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Coin Tossing/1.0.0": {
+        "runtime": {
+          "Coin Tossing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Coin Tossing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

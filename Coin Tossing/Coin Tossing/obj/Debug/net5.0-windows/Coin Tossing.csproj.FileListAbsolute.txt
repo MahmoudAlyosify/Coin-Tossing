@@ -1,0 +1,19 @@
+D:\Assignment C# By Mahmoud Sayed Youssef\Coin Tossing\Coin Tossing\bin\Debug\net5.0-windows\Coin Tossing.exe
+D:\Assignment C# By Mahmoud Sayed Youssef\Coin Tossing\Coin Tossing\bin\Debug\net5.0-windows\Coin Tossing.deps.json
+D:\Assignment C# By Mahmoud Sayed Youssef\Coin Tossing\Coin Tossing\bin\Debug\net5.0-windows\Coin Tossing.runtimeconfig.json
+D:\Assignment C# By Mahmoud Sayed Youssef\Coin Tossing\Coin Tossing\bin\Debug\net5.0-windows\Coin Tossing.runtimeconfig.dev.json
+D:\Assignment C# By Mahmoud Sayed Youssef\Coin Tossing\Coin Tossing\bin\Debug\net5.0-windows\Coin Tossing.dll
+D:\Assignment C# By Mahmoud Sayed Youssef\Coin Tossing\Coin Tossing\bin\Debug\net5.0-windows\ref\Coin Tossing.dll
+D:\Assignment C# By Mahmoud Sayed Youssef\Coin Tossing\Coin Tossing\bin\Debug\net5.0-windows\Coin Tossing.pdb
+D:\Assignment C# By Mahmoud Sayed Youssef\Coin Tossing\Coin Tossing\obj\Debug\net5.0-windows\Coin Tossing.csproj.AssemblyReference.cache
+D:\Assignment C# By Mahmoud Sayed Youssef\Coin Tossing\Coin Tossing\obj\Debug\net5.0-windows\Coin_Tossing.Form1.resources
+D:\Assignment C# By Mahmoud Sayed Youssef\Coin Tossing\Coin Tossing\obj\Debug\net5.0-windows\Coin_Tossing.Properties.Resources.resources
+D:\Assignment C# By Mahmoud Sayed Youssef\Coin Tossing\Coin Tossing\obj\Debug\net5.0-windows\Coin Tossing.csproj.GenerateResource.cache
+D:\Assignment C# By Mahmoud Sayed Youssef\Coin Tossing\Coin Tossing\obj\Debug\net5.0-windows\Coin Tossing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignment C# By Mahmoud Sayed Youssef\Coin Tossing\Coin Tossing\obj\Debug\net5.0-windows\Coin Tossing.AssemblyInfoInputs.cache
+D:\Assignment C# By Mahmoud Sayed Youssef\Coin Tossing\Coin Tossing\obj\Debug\net5.0-windows\Coin Tossing.AssemblyInfo.cs
+D:\Assignment C# By Mahmoud Sayed Youssef\Coin Tossing\Coin Tossing\obj\Debug\net5.0-windows\Coin Tossing.csproj.CoreCompileInputs.cache
+D:\Assignment C# By Mahmoud Sayed Youssef\Coin Tossing\Coin Tossing\obj\Debug\net5.0-windows\Coin Tossing.dll
+D:\Assignment C# By Mahmoud Sayed Youssef\Coin Tossing\Coin Tossing\obj\Debug\net5.0-windows\ref\Coin Tossing.dll
+D:\Assignment C# By Mahmoud Sayed Youssef\Coin Tossing\Coin Tossing\obj\Debug\net5.0-windows\Coin Tossing.pdb
+D:\Assignment C# By Mahmoud Sayed Youssef\Coin Tossing\Coin Tossing\obj\Debug\net5.0-windows\Coin Tossing.genruntimeconfig.cache
